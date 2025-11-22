@@ -1,0 +1,13 @@
+# 🧠🦅 TRINITY AI & EAGLE EYE – ARCHITECTURE OVERVIEW
+
+This document describes how TRINITY AI and EAGLE EYE cooperate to form
+the Safeway Guardian intelligence backbone.
+
+- EAGLE EYE = `Sense → Fuse → Signal`
+- TRINITY AI = `Understand → Decide → Act`
+
+See:
+- `TRINITY_DESIGN.md`
+- `EAGLE_EYE_DESIGN.md`
+- `INTEGRATION_GUIDE.md`
+
